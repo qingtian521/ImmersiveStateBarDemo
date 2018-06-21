@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImmersiveStateBarDemo</string>
+    <string name="action_bar_title">标题</string>
+</resources>
